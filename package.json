@@ -5,7 +5,7 @@
   , "private": false
   , "description" : "A Connect / Express compatible middleware for providing Basic http auth using PAM."
   , "dependencies": {
-    "authenticate-pam" : "0.1.x"
+    "authenticate-pam" : "0.2.x"
   }
   , "repository" :
     { "type" : "git"
